@@ -1,7 +1,7 @@
 # sql-flights
  Stored procedures, insert procedures, business rules, synthetic transactions, complex queries and table definitions for a flights database.
  
- This project was created using MS SQL Server.
+ This project was created using MS SQL Server for my INFO 430 class (Database Design and Management).
 
 ## Description
 The database will focus on collating and informing users about wait times at various airports throughout the US. This will be dedicated towards airline staff and customers, who might want to know more about how long the queues are, and plan accordingly to arrive at the airport on time. This would most likely be an online and public service provided so that people can access and view the information as it is needed by the general public. 
